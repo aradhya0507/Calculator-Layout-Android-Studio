@@ -38,23 +38,21 @@ A simple **Android Calculator App** developed to understand **Android UI, activi
 
 ⸻
 
-Project Structure
+Project Structure<br><br>
 
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/com/example/calculator/  # Main activity and result activity
-│   │   └── res/
-│   │       ├── layout/                  # XML layout files
-│   │       ├── drawable/                # Icons and images
-│   │       └── values/                  # Colors, strings, styles
+app/<br>
+├── src/<br>
+│   ├── main/<br>
+│   │   ├── java/com/example/calculator/  # Main activity and result activity<br>
+│   │   └── res/<br>
+│   │       ├── layout/                  # XML layout files<br>
+│   │       ├── drawable/                # Icons and images<br>
+│   │       └── values/                  # Colors, strings, styles<br>
 
 ---
 
 Author
-
 Aradhya Bhagwat
-Second-Year BTech CSE Student
 MIT World Peace University
 
 ---
