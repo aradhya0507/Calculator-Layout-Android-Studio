@@ -51,8 +51,8 @@ app/<br>
 
 ---
 
-Author
-Aradhya Bhagwat
-MIT World Peace University
+Author<br>
+Aradhya Bhagwat<br>
+MIT World Peace University<br>
 
 ---
