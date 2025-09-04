@@ -28,7 +28,7 @@ A simple **Android Calculator App** developed to understand **Android UI, activi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/AndroidCalculator.git
+   git clone https://github.com/aradhya0507/Calculator-Layout-Android-Studio.git
 
 2.	Open the project in Android Studio
 3.	Build and run on an emulator or Android device
