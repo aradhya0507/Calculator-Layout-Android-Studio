@@ -36,7 +36,7 @@ A simple **Android Calculator App** developed to understand **Android UI, activi
 5.	Press Calculate to see the result
 6.	Use the Back button to return and modify inputs
 
-⸻
+---
 
 Project Structure<br><br>
 
